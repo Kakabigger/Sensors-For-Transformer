@@ -1,3 +1,3 @@
 import os
 
-print (" hh ")
+print (" hh ")await
